@@ -1,0 +1,1 @@
+# stitch-together-multiple-images
